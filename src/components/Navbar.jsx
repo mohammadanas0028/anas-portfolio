@@ -20,7 +20,7 @@ const Navbar = () => {
           </div>
           {/* BUTTONS */}
           <div>
-            <button className='px-10 py-4 border border-zinc-800 overflow-hidden rounded-full shrink-0 flex items-center gap-2 cursor-pointer text-slate-500 hover:text-slate-900 hover:translate-y-1 transition duration-300'>
+            <button className='px-10 py-4 border border-zinc-800 rounded-full flex items-center gap-2 cursor-pointer text-slate-500 hover:text-slate-900 hover:translate-y-1 transition duration-300'>
               <a href="https://drive.google.com/file/d/1uPTKXvKeqH5vf4EWMMFSC946MliiRa_6/view?usp=drivesdk">Resume</a>
                 <FaArrowRight className='text-gray-500 text-sm'/>
               </button>

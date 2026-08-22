@@ -12,17 +12,17 @@ export const skillsData = [
     {
         icon: FaReact,
         title: 'Frontend',
-        technologies: ['Html', 'CSS', 'JavaScript', 'Bootstrap', 'Tailwindcss', 'React.js']
+        technologies: ['Html', 'CSS', 'JavaScript', 'Bootstrap', 'Tailwindcss', 'React.js'],
     },
     {
         icon: FaMicrochip,
         title: 'Backend',
-        technologies: ['Node.js', 'express.js', 'MongoDB']
+        technologies: ['Node.js', 'express.js', 'MongoDB'],
     },
     {
         icon: FaCode ,
         title: 'Tools & Technology',
-        technologies: ['Git Bash', 'Git', 'Github', 'Terminal', 'VS Code']
+        technologies: ['Git Bash', 'Git', 'Github', 'Terminal', 'VS Code'],
     },
 ]
 
@@ -34,14 +34,21 @@ export const projectData = [
         description: 'A modern immersive food delivery experience with HTML, CSS, JavaScript, tailwindcss and react.',
         image: 'https://tse2.mm.bing.net/th/id/OIP.sRInsIEHa47BesDvKlp02AHaFi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
         tech: ['HTML', 'CSS', 'React', 'Tailwindcss', 'JavaScript'],
-        link: 'https://food-delivery-king.netlify.app/'
+        link: 'https://food-delivery-king.netlify.app/',
+    },
+    {
+        title: 'Joboard',
+        description: 'a responsive Job Portal website using HTML, CSS, JavaScript, and ReactJS. The platform allows users to easily explore job opportunities and find suitable positions based on their preferences.',
+        image: 'https://cdni.iconscout.com/illustration/premium/thumb/online-job-search-5015545-4185620.png',
+        tech: ['HTML', 'CSS', 'JavaScript', 'Reactjs'],
+        link: 'https://job-intro.netlify.app/',
     },
     {
         title: 'Smart AI Bot',
         description: 'immersive AI platform offering uploading image to ask questions and chats.',
         image: 'https://static.vecteezy.com/system/resources/thumbnails/068/023/286/small_2x/futuristic-ai-concept-half-human-half-digital-brain-for-technology-ai-illustration-vector.jpg',
         tech: ['HTML', 'CSS', 'React', 'Tailwindcss', 'JavaScript'],
-        link: 'https://ainoob.netlify.app/'
+        link: 'https://ainoob.netlify.app/',
     },
     {
         title: "Digital Clock",
@@ -56,16 +63,16 @@ export const profileData = [
     {
         icon: FaCode ,
         title: 'Language',
-        technologies : ['Tailwindcss', 'JavaScript', 'MERN Stack']
+        technologies : ['Tailwindcss', 'JavaScript', 'MERN Stack'],
     },
     {
         icon: FaSchool ,
         title: 'Education',
-        technologies : ['Pursuing B.Tech in Information Technology']
+        technologies : ['Pursuing B.Tech in Information Technology'],
     },
     {
         icon: FaProjectDiagram ,
         title: 'Projects',
-        technologies : ['Built more than 3+']
+        technologies : ['Built more than 3+'],
     },
 ]

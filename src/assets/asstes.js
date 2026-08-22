@@ -40,7 +40,7 @@ export const projectData = [
         title: 'Joboard',
         description: 'a responsive Job Portal website using HTML, CSS, JavaScript, and ReactJS. The platform allows users to easily explore job opportunities and find suitable positions based on their preferences.',
         image: 'https://cdni.iconscout.com/illustration/premium/thumb/online-job-search-5015545-4185620.png',
-        tech: ['HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'Reactjs'],
+        tech: ['HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'React'],
         link: 'https://job-intro.netlify.app/',
     },
     {
